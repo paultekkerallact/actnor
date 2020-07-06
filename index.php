@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-online.website/actnor");
+header("Location: https://all-act.herokuapp.com/actnor");
 die();
 ?>
